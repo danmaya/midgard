@@ -1,5 +1,15 @@
-[16496:19868:0409/161129.669:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16496:19868:0409/161129.713:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4232:13016:0409/161133.645:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-835F180526C1662BDEE53240630B474A will be ignored
-[16496:21132:0409/161137.173:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16496:19868:0409/161331.759:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26040:9000:0410/082947.579:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26040:25624:0410/082947.646:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26040:9000:0410/082947.683:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10496:24640:0410/082951.741:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D03B50CCB49AE441978F678C405E2C41 will be ignored
+[26040:8188:0410/082952.100:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[26040:9000:0410/082952.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26040:9000:0410/082952.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26040:9000:0410/082952.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26040:9000:0410/082952.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26040:8188:0410/082952.184:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26040:9000:0410/082953.484:ERROR:device_event_log_impl.cc(196)] [08:29:53.472] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[26040:9000:0410/082957.913:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[21204:20708:0410/083159.607:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21204:20708:0410/083159.607:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[26040:9000:0410/120103.630:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
